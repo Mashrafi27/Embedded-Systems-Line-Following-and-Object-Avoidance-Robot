@@ -32,5 +32,5 @@ The robot successfully follows lines while avoiding obstacles in various environ
 
 ## Resources
 
-- **Project Paper**: [![Link to Paper]([https://example.com/project-paper](https://github.com/Mashrafi27/Embedded-Systems-Line-Following-and-Object-Avoidance-Robot/blob/main/Final_Project_Report.pdf))
+- **Project Paper**: [![Link to Paper](https://example.com/project-paper)](https://github.com/Mashrafi27/Embedded-Systems-Line-Following-and-Object-Avoidance-Robot/blob/main/Final_Project_Report.pdf)
 - **Project Video**: [![Link to Video]([https://example.com/project-video](https://github.com/Mashrafi27/Embedded-Systems-Line-Following-and-Object-Avoidance-Robot/blob/main/Video_demo.mov))
