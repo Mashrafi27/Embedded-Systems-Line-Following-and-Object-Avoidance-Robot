@@ -25,7 +25,7 @@ The primary goal of this project was to design and implement an autonomous robot
 ## Results
 
 The robot successfully follows lines while avoiding obstacles in various environmental conditions, demonstrating robustness and efficiency. The demo video demonstrates the robot completing an unknown track in the final project demonstration.
-[Watch the Project Video]([https://example.com/project-video](https://github.com/Mashrafi27/Embedded-Systems-Line-Following-and-Object-Avoidance-Robot/blob/main/Video_demo.mov))
+[![Watch the Project Video](https://example.com/project-video)](https://github.com/Mashrafi27/Embedded-Systems-Line-Following-and-Object-Avoidance-Robot/blob/main/Video_demo.mov)
 
 
 ---
@@ -33,4 +33,4 @@ The robot successfully follows lines while avoiding obstacles in various environ
 ## Resources
 
 - **Project Paper**: [Link to Paper]([https://example.com/project-paper](https://github.com/Mashrafi27/Embedded-Systems-Line-Following-and-Object-Avoidance-Robot/blob/main/Final_Project_Report.pdf))
-- **Project Video**: [Link to Video]([https://example.com/project-video](https://github.com/Mashrafi27/Embedded-Systems-Line-Following-and-Object-Avoidance-Robot/blob/main/Video_demo.mov))
+- **Project Video**: [![Link to Video]([https://example.com/project-video](https://github.com/Mashrafi27/Embedded-Systems-Line-Following-and-Object-Avoidance-Robot/blob/main/Video_demo.mov))
